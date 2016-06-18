@@ -28,6 +28,8 @@
   side: left
 
 - title: Les activités
+  url: "/getting-started/"
+  side: left
   dropdown:
     - title: "Mission BEREZINA"
       url: "/design/gallery/"
@@ -46,7 +48,7 @@
 
 - title: Nous contacter
   url: "/blog"
-  side: left
+  side: right
 
 #- title: "Templates"
 #  url: "/design/"
