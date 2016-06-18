@@ -17,4 +17,4 @@ Et rejoignez notre compte Facebook : [Centre Etudes Napoléoniennes][2]
 
 
  [1]: https://www.facebook.com/Berezina2012.fr
- [1]: https://www.facebook.com/jerome.centreetudesnapoleoniennes?fref=ts
+ [2]: https://www.facebook.com/jerome.centreetudesnapoleoniennes?fref=ts
