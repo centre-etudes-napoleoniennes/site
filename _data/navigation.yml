@@ -13,11 +13,11 @@
     - title: "Qui sommes-nous"
       url: "/association/quisommesnous/"
     - title: "La vie de l'association"
-      url: "/design/grid/"
+      url: "/association/grid/"
     - title: "Adhérer au CEN"
-      url: "/design/adherer/"
+      url: "/association/adherer/"
     - title: "Le bureau"
-      url: "/design/bureau/"
+      url: "/association/bureau/"
 
 - title: Actualités
   url: "/getting-started/"
