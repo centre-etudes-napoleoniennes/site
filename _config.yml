@@ -14,7 +14,7 @@ title: "Centre D'études Napoléoniennes"
 slogan: 'Société de Sauvegarde du Château de Pont-de-Briques'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ''
+description: "Site du CEN - Centre D'études Napoléoniennes"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Site créé avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, et le template <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> de <a href="http://phlow.de/">Phlow</a></p>'
