@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline:  "Templates"
-title:  "Responsive Galleries with Foundation"
+subheadline:  "L'association"
+title:  "Qui sommes-nous ?"
 teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
 categories:
     - association
