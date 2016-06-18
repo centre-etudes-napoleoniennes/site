@@ -17,7 +17,7 @@ slogan: 'Société de Sauvegarde du Château de Pont-de-Briques'
 description: ''
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, et le template <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> de <a href="http://phlow.de/">Phlow</a></p>'
+credits: '<p>Site créé avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, et le template <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> de <a href="http://phlow.de/">Phlow</a></p>'
 
 # Main author of the website
 # See > authors.yml
