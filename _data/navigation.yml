@@ -10,7 +10,7 @@
   url: "/getting-started/"
   side: left
   dropdown:
-    - title: "Qui sommes nous"
+    - title: "Qui sommes-nous"
       url: "/association/quisommesnous/"
     - title: "La vie de l'association"
       url: "/design/grid/"
