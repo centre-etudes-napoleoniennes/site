@@ -7,7 +7,7 @@
 #  side: left
 
 - title: L'association
-  url: "/getting-started/"
+  url: "/association/"
   side: left
   dropdown:
     - title: "Qui sommes-nous"
