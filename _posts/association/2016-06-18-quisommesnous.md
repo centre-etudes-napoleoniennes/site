@@ -8,6 +8,7 @@ categories:
     - association
 tags:
     - post format
-image:
-   thumb: "gallery-example-1-thumb.jpg"
+header:
+  image_fullwidth: header_unsplash_9.jpg
+  title: Centre D'études Napoléoniennes
 ---
