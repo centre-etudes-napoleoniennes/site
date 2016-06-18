@@ -28,30 +28,6 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
-<!--more-->
-
-{% include gallery %}
-
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-~~~
-
-If you like captions, give each image a caption:
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-       caption: Starting Page with huge One Logo
-~~~
-
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
-
-
 
  [1]: http://foundation.zurb.com/docs/components/clearing.html
  [2]: http://foundation.zurb.com/docs/components/block_grid.html
