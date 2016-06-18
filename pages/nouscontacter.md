@@ -13,7 +13,7 @@ CENTRE D'ÉTUDES NAPOLÉONIENNES.
 
 Pour suivre l’actualité de notre association, rendez-vous sur notre [Page Facebook][1]
 
-Et rejoignez notre compte Facebook : [«Cen - Centre Etudes Napoléoniennes»][2]
+Et rejoignez notre compte Facebook : [Centre Etudes Napoléoniennes][2]
 
 
  [1]: https://www.facebook.com/Berezina2012.fr
