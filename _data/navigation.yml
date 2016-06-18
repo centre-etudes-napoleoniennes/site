@@ -15,9 +15,9 @@
     - title: "La vie de l'association"
       url: "/design/grid/"
     - title: "Adhérer au CEN"
-      url: "/design/grid/"
+      url: "/design/adherer/"
     - title: "Le bureau"
-      url: "/design/grid/"
+      url: "/design/bureau/"
 
 - title: Actualités
   url: "/getting-started/"
