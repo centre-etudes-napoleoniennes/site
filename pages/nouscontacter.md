@@ -2,6 +2,9 @@
 layout: page
 title: "Nous contacter"
 meta_title: "Nous contacter"
+header:
+  image_fullwidth: header_unsplash_9.jpg
+  title: Centre D'études Napoléoniennes
 permalink: "/nouscontacter/"
 ---
 Par email : centre.etudesnapoleoniennes@gmx.fr
