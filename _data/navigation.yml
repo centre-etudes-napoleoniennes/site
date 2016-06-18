@@ -47,7 +47,7 @@
   side: left
 
 - title: Nous contacter
-  url: "/blog"
+  url: "/nouscontacter"
   side: right
 
 #- title: "Templates"
