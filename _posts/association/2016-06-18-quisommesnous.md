@@ -28,8 +28,3 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}/design/page/
- [4]: {{ site.url }}/design/page-fullwidth/
