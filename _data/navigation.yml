@@ -11,7 +11,7 @@
   side: left
   dropdown:
     - title: "Qui sommes-nous"
-      url: "/association/quisommesnous/"
+      url: "/association/qui-sommes-nous/"
     - title: "La vie de l'association"
       url: "/design/grid/"
     - title: "Adhérer au CEN"

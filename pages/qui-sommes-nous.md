@@ -5,7 +5,7 @@ title: "L'association"
 subheadline: "L'association"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/association/"
+permalink: "/association/qui-sommes-nous"
 ---
 <ul>
     {% for post in site.categories.association %}
