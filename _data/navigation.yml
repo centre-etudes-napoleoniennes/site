@@ -6,42 +6,47 @@
 #  url: "/getting-started/"
 #  side: left
 
-- title: Qui sommes nous ?
+- title: L'association
   url: "/getting-started/"
   side: left
   dropdown:
-    - title: "Historique"
+    - title: "Qui sommes nous"
       url: "/design/gallery/"
-    - title: "Les membres"
+    - title: "La vie de l'association"
       url: "/design/grid/"
-    - title: "Les groupes"
+    - title: "Adhérer au CEN"
+      url: "/design/grid/"
+    - title: "Le bureau"
       url: "/design/grid/"
 
 - title: Actualités
   url: "/getting-started/"
   side: left
-  dropdown:
-    - title: "Le bulletin"
-      url: "/design/grid/"
-    - title: "Réalisation du Centre - Bérézina"
-      url: "/design/grid/"
-    - title: "Salons et forums"
-      url: "/design/grid/"
 
-- title: Blog
+- title: Agenda - Newsletter
   url: "/blog"
   side: left
 
-- title: Quizz
-  url: "/quizz"
-  side: left
+- title: Les activités
+  dropdown:
+    - title: "Mission BEREZINA"
+      url: "/design/gallery/"
+    - title: "Pont de Briques"
+      url: "/design/grid/"
+    - title: "Conférences"
+      url: "/design/grid/"
+    - title: "Exposition - Forums"
+      url: "/design/grid/"
+    - title: "Voyages"
+      url: "/design/grid/"
 
-- title: Napo
+- title: Les publications du centre
   url: "/blog"
   side: left
-  dropdown:
-      - title: "Le bulletin de napo"
-        url: "/design/grid/"
+
+- title: Nous contacter
+  url: "/blog"
+  side: left
 
 #- title: "Templates"
 #  url: "/design/"
@@ -107,6 +112,3 @@
 #  url: "/search/"
 #  side: right
 #
-- title: "Contact"
-  url: "/contact/"
-  side: left
