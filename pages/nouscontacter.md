@@ -1,12 +1,20 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Nous contacter"
+meta_title: "Nous contacter"
 permalink: "/nouscontacter/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Par email : centre.etudesnapoleoniennes@gmx.fr
+
+Par courrier :
+CENTRE D'ÉTUDES NAPOLÉONIENNES. 
+4 rue Camille Pelletan, 
+92300/LEVALLOIS, France.
+
+Pour suivre l’actualité de notre association, rendez-vous sur notre [Page Facebook][1]
+
+Et rejoignez notre compte Facebook : [«Cen - Centre Etudes Napoléoniennes»][2]
 
 
- [1]: http://www.wufoo.com/
+ [1]: https://www.facebook.com/Berezina2012.fr
+ [1]: https://www.facebook.com/jerome.centreetudesnapoleoniennes?fref=ts
