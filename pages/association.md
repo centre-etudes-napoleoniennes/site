@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "L'association"
 header:
-  image_fullwidth: header_unsplash_9.jpg
+  image_fullwidth: header_pdb.jpg
   title: Centre D'études Napoléoniennes
 permalink: "/association/"
 ---

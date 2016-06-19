@@ -7,7 +7,7 @@ categories:
 tags:
     - post format
 header:
-  image_fullwidth: header_unsplash_9.jpg
+  image_fullwidth: header_pdb.jpg
   title: Centre D'études Napoléoniennes
 ---
 
