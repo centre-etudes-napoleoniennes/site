@@ -41,3 +41,7 @@
 - title: Nous contacter
   url: "/nouscontacter"
   side: right
+ 
+- title: Base de données
+  url: "/getting-started/"
+  side: left  side: left
