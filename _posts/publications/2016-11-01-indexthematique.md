@@ -1,4 +1,4 @@
-ii>---
+/ii>---
 layout: page
 subheadline:  "Publications du C.E.N
 title:  "Index thématique"
@@ -12,6 +12,8 @@ header:
 ---
 
 Les index classant les articles antérieurs au n° 21 de la revue ETUDES NAPOLEONIENNES  figurent au sommaire du N° 20 de la revue.
+
+LA FAMILLE IMPERIALE
 <table>
     <tr>
         <th>Sujets</th>
@@ -23,11 +25,23 @@ Les index classant les articles antérieurs au n° 21 de la revue ETUDES NAPOLEO
         </td>
         <td>21-22</td>
   </tr>
+  <tr>
+        <td>
+            <i>La fidèle Hortense (avec 1 illustration)</i> par F. BEAUCOUR
+        </td>
+        <td>29</td>
+  </tr>
+  <tr>
+        <td>
+            <i>Eugène de Beauharnais au camp de Boulogne, en l'An XII</i> par F. BEAUCOUR
+        </td>
+        <td>31-32-33-34</td>
+  </tr>
 </table>
 
-LA FAMILLE IMPERIALE
-La fidèle Hortense (avec 1 illustration)</i> par F. BEAUCOUR					                    29
-Eugène de Beauharnais au camp de Boulogne, en l'An XII par F. BEAUCOUR		                31-32-33-34
+
+					                    29
+		                31-32-33-34
 Les Bonaparte à Harvard  par Ch. K. WARNER						                            31-32-33-34
 Quand Louis Bonaparte voulait se séparer d'Hortense en 1809 par F. BEAUCOUR	                35-36-37-38
 Achille Murat, colonel en Belgique (1831-1832) par F. BEAUCOUR			                    35-36-37-38
