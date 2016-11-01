@@ -40,9 +40,9 @@
   side: left
   dropdown:
     - title: "Publications du C.E.N"
-      url: "/association/quisommesnous/"
+      url: "/publications/indexthematique/"
     - title: "Revue du C.E.N - Index thématique"
-      url: "/association/quisommesnous/"
+      url: "/publications/indexthematique/"
 
 - title: Nous contacter
   url: "/nouscontacter"
