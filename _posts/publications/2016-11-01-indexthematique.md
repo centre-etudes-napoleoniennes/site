@@ -12,11 +12,21 @@ header:
 ---
 
 Les index classant les articles antérieurs au n° 21 de la revue ETUDES NAPOLEONIENNES  figurent au sommaire du N° 20 de la revue.
+<table>
+    <tr>
+        <th>Sujets</th>
+        <th>N°</th>
+    </tr>
+    <tr>
+        <td>
+            <i>Le premier des enfants de Joseph Bonaparte: Zénaïde (1796-1797) avec 4 illustrations</i> par F. BEAUCOUR
+        </td>
+        <td>21-22</td>
+  </tr>
+</table>
 
 LA FAMILLE IMPERIALE
-<i>Le premier des enfants de Joseph Bonaparte: Zénaïde (1796-1797) avec 4 illustrations</i>
- par F. BEAUCOUR										                                        21-22
-<i>La fidèle Hortense (avec 1 illustration)</i> par F. BEAUCOUR					                    29
+La fidèle Hortense (avec 1 illustration)</i> par F. BEAUCOUR					                    29
 Eugène de Beauharnais au camp de Boulogne, en l'An XII par F. BEAUCOUR		                31-32-33-34
 Les Bonaparte à Harvard  par Ch. K. WARNER						                            31-32-33-34
 Quand Louis Bonaparte voulait se séparer d'Hortense en 1809 par F. BEAUCOUR	                35-36-37-38
@@ -28,3 +38,4 @@ Les frères Bonaparte et les Carbonari en 1831 à la naissance de l'unité itali
 par F. BEAUCOUR										                                            41
 Les pérégrinations de la dépouille mortelle de Charles-Marie Bonaparte par F. Beaucour, 
 Dr Ch. LILIEN et V. LILIEN								                                        43
+</table>
