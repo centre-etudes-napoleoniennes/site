@@ -1,4 +1,4 @@
-/ii>---
+---
 layout: page
 subheadline:  "Publications du C.E.N
 title:  "Index thématique"
