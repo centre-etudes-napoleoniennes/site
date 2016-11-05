@@ -3,7 +3,7 @@ layout: page
 title: "Nous contacter"
 meta_title: "Nous contacter"
 header:
-  image_fullwidth: LawrenceAlmaTadema.jpg
+  image_fullwidth: alma-header.jpg
   title: Centre D'études Napoléoniennes
 permalink: "/nouscontacter/"
 ---
