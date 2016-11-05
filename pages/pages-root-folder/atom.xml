@@ -39,7 +39,6 @@ permalink: /atom.xml
 			<id>{{ site.url }}{{ site.baseurl }}{{ post.url }}</id>
 			<title>{{ post.title | strip_html | strip_newlines | xml_escape }}</title>
 			<link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
 
 			{% if post.author %}
 				{% assign author = site.data.authors[post.author] %}
