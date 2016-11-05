@@ -15,11 +15,11 @@
       url: "/nouscontacter"
 
 - title: Agenda - Newsletter
-  url: "/blog/"
+  url: "/agenda/"
   side: left
 
 - title: Les activités
-  url: "/getting-started/"
+  url: "/activites/"
   side: left
   dropdown:
     - title: "Mission BEREZINA"
@@ -43,11 +43,11 @@
       url: "/publications/indexthematique/"
 
 - title: Le coin des juniors
-  url: "/blog/"
+  url: "/junior/"
   side: left
 
 - title: Partenaires et mécènes
-  url: "/blog/"
+  url: "/partenaires/"
   side: left
   dropdown:
     - title: "Villes Impériales"
