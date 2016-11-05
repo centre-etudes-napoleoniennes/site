@@ -11,6 +11,8 @@
       url: "/association/adherer/"
     - title: "Le bureau"
       url: "/association/bureau/"
+    - title: "Contact"
+      url: "/nouscontacter"
 
 - title: Agenda - Newsletter
   url: "/blog"
@@ -39,7 +41,3 @@
       url: "/publications/indexthematique/"
     - title: "Revue du C.E.N - Index thématique"
       url: "/publications/indexthematique/"
-
-- title: Nous contacter
-  url: "/nouscontacter"
-  side: right
