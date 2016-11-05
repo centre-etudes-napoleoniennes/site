@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Publications du C.E.N
+subheadline:  "Partenaires et mécènes"
 title:  "Villes impériales"
 categories:
     - partenaires
