@@ -67,7 +67,6 @@ permalink: /atom.xml
 				<category term="{{ tag | xml_escape }}" />
 			{% endfor %}
 
-			<published>{{ post.date | date_to_xmlschema }}</published>
 		</entry>
 	{% endfor %}
 </feed>
