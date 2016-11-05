@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Les activités"
 header:
-  image_fullwidth: header_pdb.jpg
+  image_fullwidth: alma-header.jpg
   title: Centre D'études Napoléoniennes
 permalink: "/activites/"
 ---
