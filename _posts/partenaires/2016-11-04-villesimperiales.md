@@ -1,7 +1,7 @@
 ---
 layout: page
-subheadline:  "Partenaires et mécènes"
-title:  "Villes impériales"
+subheadline: "Partenaires et mécènes"
+title: "Villes impériales"
 categories:
     - partenaires
 tags:
