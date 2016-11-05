@@ -49,3 +49,6 @@
 - title: Partenaires et mécènes
   url: "/blog"
   side: left
+  dropdown:
+    - title: "Villes Impériales"
+    url: "/partenaires/villesimpériales/"
