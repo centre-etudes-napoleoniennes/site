@@ -15,7 +15,7 @@
       url: "/nouscontacter"
 
 - title: Agenda - Newsletter
-  url: "/blog"
+  url: "/blog/"
   side: left
 
 - title: Les activités
@@ -34,7 +34,7 @@
       url: "/design/grid/"
 
 - title: Lecteurs et chercheurs
-  url: "/publications"
+  url: "/publications/"
   side: left
   dropdown:
     - title: "Publications du C.E.N"
@@ -43,11 +43,11 @@
       url: "/publications/indexthematique/"
 
 - title: Le coin des juniors
-  url: "/blog"
+  url: "/blog/"
   side: left
 
 - title: Partenaires et mécènes
-  url: "/blog"
+  url: "/blog/"
   side: left
   dropdown:
     - title: "Villes Impériales"
