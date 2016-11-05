@@ -41,3 +41,7 @@
       url: "/publications/indexthematique/"
     - title: "Revue du C.E.N - Index thématique"
       url: "/publications/indexthematique/"
+
+- title: Le coin des juniors
+  url: "/blog"
+  side: left
