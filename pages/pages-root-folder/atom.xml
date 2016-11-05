@@ -9,7 +9,6 @@ permalink: /atom.xml
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>{{ site.url }}{{ site.baseurl }}/</id>
 	<title>{{ site.title | xml_escape }}</title>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
 
 	<subtitle>{{ site.description | xml_escape }}</subtitle>
 
