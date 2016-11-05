@@ -31,7 +31,7 @@
     - title: "Voyages"
       url: "/design/grid/"
 
-- title: Publications du C.E.N. - Base de données
+- title: Lecteurs et chercheurs
   url: "/blog"
   side: left
   dropdown:
