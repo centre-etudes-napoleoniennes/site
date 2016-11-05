@@ -3,9 +3,9 @@ layout: page
 show_meta: false
 title: "Le coin des juniors"
 header:
-  image_fullwidth: header_pdb.jpg
+  image_fullwidth: juniors-header.jpg
   title: Centre D'études Napoléoniennes
-permalink: "/junior/"
+permalink: "/juniors/"
 ---
 <ul>
     {% for post in site.categories.junior %}
