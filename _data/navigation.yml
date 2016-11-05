@@ -12,10 +12,6 @@
     - title: "Le bureau"
       url: "/association/bureau/"
 
-- title: Actualités
-  url: "/getting-started/"
-  side: left
-
 - title: Agenda - Newsletter
   url: "/blog"
   side: left
