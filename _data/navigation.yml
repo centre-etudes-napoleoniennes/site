@@ -34,7 +34,7 @@
       url: "/design/grid/"
 
 - title: Lecteurs et chercheurs
-  url: "/blog"
+  url: "/publications"
   side: left
   dropdown:
     - title: "Publications du C.E.N"
