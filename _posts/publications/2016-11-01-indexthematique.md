@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Publications du C.E.N
+subheadline:  "Publications du C.E.N"
 title:  "Index thématique"
 categories:
     - publications
