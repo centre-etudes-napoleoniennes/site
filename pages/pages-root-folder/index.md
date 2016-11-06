@@ -14,3 +14,7 @@ homepage: true
 ---
 
 This is the home page
+
+![][1]
+
+[1]: http://centre-etudes-napoleoniennes.github.io/site/images/page-under-construct.jpg
