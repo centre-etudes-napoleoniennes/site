@@ -1,4 +1,4 @@
----
+|---
 layout: page
 subheadline:  "Publications du C.E.N"
 title:  "Index thématique"
@@ -37,4 +37,6 @@ LA FAMILLE IMPERIALE
 | *Les frères Bonaparte et les Carbonari en 1831 à la naissance de l'unité italienne* par F. BEAUCOUR                    |41          |
 |:-----------------------------------------------------------------------------------------------------------------------+:----------:|
 | *Les pérégrinations de la dépouille mortelle de Charles-Marie Bonaparte* par F. Beaucour, Dr Ch. LILIEN et V. LILIEN   |35-36-37-38 |
+|------------------------------------------------------------------------------------------------------------------------+------------+
+| ensuite il faut écrire le texte *en italique*                                                                          |12-13-14    |
 |------------------------------------------------------------------------------------------------------------------------+------------+
