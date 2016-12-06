@@ -1,10 +1,10 @@
---------------------------
+entie (1737-1813)--------------------------
 layout: page
-subheadline:  "Publications du C.E.N"
+ar N. GOTTERIsubheadline:  "Publications du C.E.N"
 title:  "Index thématique"
 categories:
     - publications
-tags:
+mtags:
     - post format
 header:
   image_fullwidth: books-header.jpg
@@ -22,7 +22,7 @@ TROUPES FRANCAISES ET ETRANGERES
 SITES ET MONUMENTS
 DATES HISTORIQUES
 L'ART SOUS L'EMPIRE
-MUSEES -PEINTURE ET DESSINS -OUVRES D'ART
+USEES -PEINTURE ET DESSINS -OUVRES D'ART
 PATRIMOINE
 MEMOIRES ET TEMOIGNAGES
 CORRESPONDANCES
@@ -58,7 +58,26 @@ POLITIQUE ETRANGERE - DIPLOMATIE
 |------------------------------------------------------------------------------------------------------------------------+------------+
 |:                                                                                                                       |            |
 |------------------------------------------------------------------------------------------------------------------------+------------+
-|:                                                                                                                       |            |
+| GRANDES FIGURES ET PERSONALITES DE L'EMPIRE                                                                            |            |
 |------------------------------------------------------------------------------------------------------------------------+------------+
+|:                                                                                                                       |            +
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:*Le logement en ville de Boulogne de Lacépède, Grand Chancelier de la Légion d'Honneur, en thermidor An XII* (avec 1   |            + | illustration) par F. BEAUCOUR                                                                                          |21-22       + |------------------------------------------------------------------------------------------------------------------------|------------+
+|:*L'environnement culturel du maréchal Soult* par N.GOTTERI                                                             |41          + |------------------------------------------------------------------------------------------------------------------------|------------+ |:*De la Franche-Comté à l'Artois, le destin de François Marpaude (1755-1820). Un colonel de la République* par          |            +
+|F. BEAUCOUR                                                                                                             |42          +
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:*Parmentier (1737-1813) Premier Pharmacien des Armées, au service de Santé de l'état-major général de l'Armée des*     |            +
+|*Côtes de l'Océan* (avec 2 illustrations) par F. BEAUCOUR                                                               |21-22       +
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:*Stendhal et Napoléon* par J. David MARKHAM                                                                            |31-32-33-34 + |------------------------------------------------------------------------------------------------------------------------|------------+ |                                                                                                                       |            +
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|VIE QUOTIDIENNE AUX ARMEES                                                                                              |            +
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|
+
+
+
+
+
 
 
