@@ -1,4 +1,4 @@
-|---
+--------------------------
 layout: page
 subheadline:  "Publications du C.E.N"
 title:  "Index thématique"
@@ -14,10 +14,28 @@ header:
 Les index classant les articles antérieurs au n° 21 de la revue ETUDES NAPOLEONIENNES figurent au sommaire du N° 20 de la revue.
 
 LA FAMILLE IMPERIALE
+GRANDES FIGURES ET PERSONALITES DE L'EMPIRE
+VIE QUOTIDIENNE AUX ARMEES
+CAMPAGNES ET STRATEGIE 
+UNIFORMES - ARMEMENT - VEXILOLOGIE
+TROUPES FRANCAISES ET ETRANGERES
+SITES ET MONUMENTS
+DATES HISTORIQUES
+L'ART SOUS L'EMPIRE
+MUSEES -PEINTURE ET DESSINS -OUVRES D'ART
+PATRIMOINE
+MEMOIRES ET TEMOIGNAGES
+CORRESPONDANCES
+SOCIETE FRANCAISES ET EUROPEENNES SOUS L'EMPIRE
+ARCHEOLOGIE
+POLITIQUE ETRANGERE - DIPLOMATIE
+
 
 |------------------------------------------------------------------------------------------------------------------------+------------+
 | Sujets                                                                                                                 |     N°     |
 |:-----------------------------------------------------------------------------------------------------------------------+:----------:|
+|LA FAMILLE IMPERIALE:                                                                                                   |            |
+|:-----------------------------------------------------------------------------------------------------------------------+-----------:|
 | *Le premier des enfants de Joseph Bonaparte: Zénaïde (1796-1797) avec 4 illustrations* par F. BEAUCOUR                 |21-22       |
 |:-----------------------------------------------------------------------------------------------------------------------+:----------:|
 | *La fidèle Hortense (avec 1 illustration)* par F. BEAUCOUR                                                             |29          |
@@ -38,5 +56,9 @@ LA FAMILLE IMPERIALE
 |:-----------------------------------------------------------------------------------------------------------------------+:----------:|
 | *Les pérégrinations de la dépouille mortelle de Charles-Marie Bonaparte* par F. Beaucour, Dr Ch. LILIEN et V. LILIEN   |35-36-37-38 |
 |------------------------------------------------------------------------------------------------------------------------+------------+
-| ensuite il faut écrire le texte *en italique*                                                                          |12-13-14    |
+|:                                                                                                                       |            |
 |------------------------------------------------------------------------------------------------------------------------+------------+
+|:                                                                                                                       |            |
+|------------------------------------------------------------------------------------------------------------------------+------------+
+
+
