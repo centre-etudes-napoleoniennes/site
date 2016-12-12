@@ -29,7 +29,6 @@ SOCIETE FRANCAISES ET EUROPEENNES SOUS L'EMPIRE
 ARCHEOLOGIE
 POLITIQUE ETRANGERE - DIPLOMATIE
 
-
 |------------------------------------------------------------------------------------------------------------------------+------------+
 | Sujets                                                                                                                 |     N°     |
 |------------------------------------------------------------------------------------------------------------------------+:-----------+
@@ -59,7 +58,7 @@ POLITIQUE ETRANGERE - DIPLOMATIE
 |** GRANDES FIGURES ET PERSONALITES DE L'EMPIRE**                                                                        |            |
 |------------------------------------------------------------------------------------------------------------------------+------------+
 |:*Le logement en ville de Boulogne de Lacépède, Grand Chancelier de la Légion d'Honneur, en thermidor An XII* (avec 1   |            |
-|illustration) par F. BEAUCOUR                                                                                           |21-22       + |------------------------------------------------------------------------------------------------------------------------|------------+
+|illustration) par F. BEAUCOUR                                                                                           |21-22       | |------------------------------------------------------------------------------------------------------------------------|------------+
 |:*L'environnement culturel du maréchal Soult* par N.GOTTERI                                                             |41          | |------------------------------------------------------------------------------------------------------------------------|------------+ |:*De la Franche-Comté à l'Artois, le destin de François Marpaude (1755-1820). Un colonel de la République* par          |            |
 |F. BEAUCOUR                                                                                                             |42          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
@@ -80,27 +79,26 @@ POLITIQUE ETRANGERE - DIPLOMATIE
 |------------------------------------------------------------------------------------------------------------------------|------------+
 |:*Thorn à l'époque napoléonienne (1807-1813). Le siège de 1813* par R. BELOSTYK                                         |31-32-33-34 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Les convois de transport fluviaux organisés de Koenigsberg à Kovno pour la Grande Armée pendant la campagne de Russie*|            +
-|par F. BEAUCOUR                                                                                                         |35-36-37-38 +
+|:*Les convois de transport fluviaux organisés de Koenigsberg à Kovno pour la Grande Armée pendant la campagne de Russie*|            |
+|par F. BEAUCOUR                                                                                                         |35-36-37-38 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Napoléon à Vitebsk en 1812* par I. ABRAMOVA                                                                           |35-36-37-38 +
+|:*Napoléon à Vitebsk en 1812* par I. ABRAMOVA                                                                           |35-36-37-38 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Napoléon et la Russie. Le renseignement sur le pays* par F. BEAUCOUR                                                  |35-36-37-38 +
+|:*Napoléon et la Russie. Le renseignement sur le pays* par F. BEAUCOUR                                                  |35-36-37-38 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*La campagne de Suisse en 1799* par N. GOTTERI                                                                         |41          +
+|:*La campagne de Suisse en 1799* par N. GOTTERI                                                                         |41          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Itinéraire de la Retraite de Russie de la Bérézina à Vilna* par J. BEAUCOUR                                           |43          + |------------------------------------------------------------------------------------------------------------------------|------------+ |:*Les Anges de Napoléon ou qui a laissé Napoléon s'échapper de la Russie ?* par V. KISCHENKO                            |44          +
+|:*Itinéraire de la Retraite de Russie de la Bérézina à Vilna* par J. BEAUCOUR                                           |43          | |------------------------------------------------------------------------------------------------------------------------|------------+ |:*Les Anges de Napoléon ou qui a laissé Napoléon s'échapper de la Russie ?* par V. KISCHENKO                            |44          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*An XIII de la République, An I de la guerre des mines sous-marines* par Cl. CARDON                                    |44          +
+|:*An XIII de la République, An I de la guerre des mines sous-marines* par Cl. CARDON                                    |44          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Un rais de cavalerie dans la vallée de la Marne (22-28 mars 1814)* par Cl. CARDON                                     |45/1        +
+|:*Un rais de cavalerie dans la vallée de la Marne (22-28 mars 1814)* par Cl. CARDON                                     |45/1        |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:*Le site présumé de la capture du général Partouneaux près de Borisov le 27 novembre 1812* par V. KISCHENKO            |44          +
+|:*Le site présumé de la capture du général Partouneaux près de Borisov le 27 novembre 1812* par V. KISCHENKO            |44          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|                                                                                                                        |            +
-
+|                                                                                                                        |            |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|**UNIFORMES - ARMEMENT - VEXILOLOGIE**                                                                                  |            +
+|**UNIFORMES - ARMEMENT - VEXILOLOGIE**                                                                                  |            |
 |------------------------------------------------------------------------------------------------------------------------|------------+
 |:*Recherches sur les Drapeaux et Etendards Français pris par l'armée impériale russe et conservées en Russie* par       |            |
 |N. VOGEL                                                                                                                |31-32-33-34 |
@@ -165,7 +163,7 @@ POLITIQUE ETRANGERE - DIPLOMATIE
 |------------------------------------------------------------------------------------------------------------------------|------------+
 |                                                                                                                        |            |
 |------------------------------------------------------------------------------------------------------------------------|------------+
-|:** L'EMPIRE NAPOLEONIEN ET L'ART**                                                                                     |            +
+|:** L'EMPIRE NAPOLEONIEN ET L'ART**                                                                                     |            |
 |------------------------------------------------------------------------------------------------------------------------|------------+
 |:*Une musique nouvelle de Le Sueur jouée en l'An XII "à Pont-de-Briques chez l'Empereur"* par J. MONGREDIEN             |31-32-33-34 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
@@ -186,6 +184,14 @@ POLITIQUE ETRANGERE - DIPLOMATIE
 |:*La bataille d'Eylau, d'après le dessin de Bagetti. La maison de Napoléon* par F. BEAUCOUR                             |35-36-37-38 |
 |------------------------------------------------------------------------------------------------------------------------|------------+
 |:*Deux statues du "Napoléon législateur" de Chaudet, dorment en Russie* par F. BEAUCOUR                                 |35-36-37-38 |
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|                                                                                                                        |            |
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:**PATRIMOINE NAPOLEONIEN**                                                                                             |            |
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:*Le château de Pont-de-Briques en cours de restauration. Nous avons gagné!* par F. BEAUCOUR                            |41          |
+|------------------------------------------------------------------------------------------------------------------------|------------+
+|:*Notre projet d'un Musée dans le Pavillon de la Statue de l'Empereur, à la Colonne* (avec 4 illustrations)             |            | |par F. BEAUCOUR                                                                                                         |29          |
 |------------------------------------------------------------------------------------------------------------------------|------------+
 
 
